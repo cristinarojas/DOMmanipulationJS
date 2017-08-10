@@ -1,0 +1,11 @@
+.my-button {
+	margin-right: 30px;
+	background-color: black;
+	color: white;
+}
+
+.paragraph {
+	border: 1px solid purple;
+	width: 300px;
+	height: 200px;
+}
